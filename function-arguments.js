@@ -1,6 +1,6 @@
 function math (x, y, z) {
 
-var argResults = x + (y * z);   // multiply second and thirds arguments, adding result to first argument
+var argResults = x + (y * z);   // multiply the second and third arguments, adding result to first argument
 return argResults;
 
 }
